@@ -35,6 +35,7 @@ Accurate lane detection is a critical component of Advanced Driver Assistance Sy
 - UNet.ipynb
 - VGG 16.ipynb
 - HSTM Method.ipynb
+- cnn prediction
 - hstm learning rate full.ipynb
 
 ## Author
